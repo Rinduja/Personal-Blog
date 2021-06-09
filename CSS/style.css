@@ -1,0 +1,27 @@
+/*--------------Tag Selectors-------------*/
+
+*{
+    /* border: 1px solid red; */
+
+}
+  
+   
+body{
+    background-color: mintcream;
+}
+
+h1{
+    color: palevioletred;
+}
+
+h2{
+    color: palevioletred;
+}
+
+hr{
+    width: 200px;
+    border: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+}
